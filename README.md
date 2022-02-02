@@ -2,10 +2,10 @@
 
 
 ## Running the application
-“*” clone
-“*” npm install
-“*” npm start to launch the app
-“*” npm run tests to check test cases
+- clone
+- `npm install`
+- `npm start` to launch the app
+- `npm run tests` to check test cases
 
 <hr>
 <br>
