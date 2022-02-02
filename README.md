@@ -1,10 +1,11 @@
 # Meetup app
 
-### Team Members
 
-- Chinduja
-- Maja
-- Elie
+## Running the application
+“*” clone
+“*” npm install
+“*” npm start to launch the app
+“*” npm run tests to check test cases
 
 <hr>
 <br>
@@ -31,3 +32,10 @@ This application is developed with React and Typescript and tested with Jest on 
 ## Published at
 
 https://meetup-app.surge.sh/
+
+
+### Team Members
+
+- Chinduja
+- Maja
+- Elie
