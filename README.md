@@ -1,6 +1,6 @@
 # Meetup app
 
-### Team Members:
+### Team Members
 
 - Chinduja
 - Maja
@@ -26,3 +26,8 @@ This application is developed with React and Typescript and tested with Jest on 
 8. As an organizer I want to be able to create an event so users become aware of it.
 9. As an organizer i want to be able to edit the event i created before it has started so users are aware of important changes.
 10. As an organizer I want to be able to delete the event i created before it has started so users are aware that the event has been canceled.
+
+
+##Published at
+
+https://meetup-app.surge.sh/
