@@ -28,6 +28,6 @@ This application is developed with React and Typescript and tested with Jest on 
 10. As an organizer I want to be able to delete the event i created before it has started so users are aware that the event has been canceled.
 
 
-##Published at
+## Published at
 
 https://meetup-app.surge.sh/
