@@ -33,7 +33,7 @@ This application is developed with React and Typescript and tested with Jest on 
 https://meetup-app.surge.sh/
 
 
-### Team Members
+#### Team Members
 
 - Chinduja
 - Maja
